@@ -1,7 +1,7 @@
 
 # Portfolio-Web
 
-I created my simple and basic Portfolio using html, css and little more functioning with javascript
+Responsive portfolio website design using html, css and javascript
 
 
 ## Author
